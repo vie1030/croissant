@@ -2,13 +2,13 @@ body {
   text-align: center;
   background-color: rgb(194, 238, 238);
 }
-a {
+.page-link {
   color: rgb(9, 122, 122);
   margin: 0 10px;
 }
 .bread {
-  max-width: 100%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
+  height: 600px;
 }
